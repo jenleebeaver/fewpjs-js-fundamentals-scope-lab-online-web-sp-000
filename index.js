@@ -18,5 +18,6 @@ function add2(n) {
   return n + two
 
   // Feel free to move things around!
+  // below is incorrect code example
   // two = 2
 }
